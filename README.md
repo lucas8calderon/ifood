@@ -128,6 +128,12 @@ O projeto foi desenvolvido utilizando as seguintes bibliotecas:
 - https://github.com/jd-alexander/LikeButton (Botão de favoritar personalizado)
 
 
---
+---
+
+## 🚀 Video
+https://www.linkedin.com/posts/lucas-calderon-9b2a941a6_kotlin-android-java-activity-7021509480286674944-0oWb?utm_source=share&utm_medium=member_desktop
+
+
+---
 
 Desenvolvido por Lucas Alves da Silva Calderon.

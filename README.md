@@ -1,8 +1,5 @@
 # <img align="center" alt="Daniel-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> IFOOD
 
-
-
-
 <div align="center">
 </div>
 
@@ -11,6 +8,7 @@
 - [Preview](#-Preview)
 - [Sobre](#-Sobre)
 - [Tecnologias utilizadas](#-Ferramentas-utilizadas)
+- [Biliotecas utilizadas](#-Biliotecas-utilizadas)
 
 ---
 
@@ -45,21 +43,14 @@
  
 
  
- 
- 
- 
-
-
-
- 
 </div>
 
 ---
 
 ## 📖 Sobre
 
-A proposta do projeto é a replica do famoso aplicativo OLX, que funciona realizando anuncios entre diversos usuários ao mesmo tempo.
-O aplicativo é capaz de realizar cadastro do usuário, editar perfil, cadastrar endereços, publicar anuncios em diversas categorias, favoritar anúncios de outros usuários e entrar em contato por ligação. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
+A proposta do projeto é a replica do famoso aplicativo IFOOD, que funciona realizando compras e entregas de alimentos entre diversos usuários ao mesmo tempo.
+O aplicativo é capaz de realizar cadastro do usuário, editar perfil, cadastrar endereços, publicar anuncios em diversas categorias, favoritar anúncios de outros usuários e entrar em contato por ligação, selecionar forma de pagamento e entrega. Tambem é possivel recuperar a conta enviando um e-mail para o usuário cadastrado.
 
 
 
@@ -98,28 +89,45 @@ O projeto foi desenvolvido utilizando as seguintes Ferramentas:
 - XML
 - Intents
 - Bundle
-- Navegação entre Activities
-- Fragments
-- Activy
+- Navegação e dados entre Activities
+- Navegação e dados entre Fragments
 - CardView
-- Dados entre Activities
 - Lógica de Programação
 - Pogramação Orientada a Objetos
 - Alert Dialog
 - RecyclerView
 - Banco de Dados
 - Firebase (Realtime e Storage)
+- Sqlite
 - Swipe
+- Constraintlayout, framelayout e linearlayout
 - Picasso
 - Bottom Sheet
 - Bottom Navigation
 - Custom Toolbar
 - Mask
-- API (via cep)
-- Retrofit
 - ViewPager
+- Tablayout
+- TedPermission
+-
+
 
 
 ---
+
+
+## 🚀 Biliotecas utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes bibliotecas:
+
+- https://github.com/santalu/maskara (mascara de números)
+- https://github.com/BlacKCaT27/CurrencyEditText (mascara de valores)
+- https://github.com/ParkSangGwon/TedPermission (utilizacão de galeria/camera)
+- https://github.com/square/picasso (utilização de imagens)
+- https://github.com/tsuryo/Swipeable-RecyclerView (Recyclerview com swipe)
+- https://github.com/jd-alexander/LikeButton (Botão de favoritar personalizado)
+
+
+--
 
 Desenvolvido por Lucas Alves da Silva Calderon.

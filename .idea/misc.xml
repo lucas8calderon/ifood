@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ifood novo/app/src/main/res/drawable/bg_edit3.xml" value="0.236" />
+        <entry key="..\:/Ifood novo/app/src/main/res/drawable/bg_edit4.xml" value="0.236" />
+        <entry key="..\:/Ifood novo/app/src/main/res/drawable/ic_ifood_branco.xml" value="0.236" />
+        <entry key="..\:/Ifood novo/app/src/main/res/drawable/view_shape.xml" value="0.236" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_criar_conta.xml" value="0.3359375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_categorias.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_finaliza_cadastro.xml" value="0.9" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_form_produto.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_home_activity.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_produto_detalhes.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_empresa_recebimentos.xml" value="0.22" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_recuperar_conta.xml" value="0.5" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/activity_splash.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/divisor.xml" value="0.1734375" />
+        <entry key="..\:/Ifood novo/app/src/main/res/layout/fragment_empresa_config.xml" value="0.1734375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_add_tambem.xml" value="0.341" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_borda_arredondada.xml" value="0.2275" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_btn.xml" value="0.2025" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_btn2.xml" value="0.2275" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_dialog_status.xml" value="0.2415" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/bg_sheet.xml" value="0.1" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_add3.xml" value="0.3325" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_add_red.xml" value="0.2275" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_check_cancelado.xml" value="0.2415" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_entrega_resumo_pedido.xml" value="0.2275" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_local.xml" value="0.1395" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_sacola.xml" value="0.2275" />
+        <entry key="..\:/ifood 2023/app/src/main/res/drawable/ic_salvar_resumo_pedido.xml" value="0.2195" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_carrinho.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_criar_conta.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_add_mais.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_cardapio.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_categorias.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_config.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_endereco.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_entregas.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_finaliza_cadastro.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_form_produto.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_produto_detalhes.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_empresa_recebimentos.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_login.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_pedido_detalhe.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_recuperar_conta.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_splash.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_enderecos.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_favoritos.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_finaliza_cadastro.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_form_endereco.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_home.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_perfil.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_resumo_pedido.xml" value="0.33" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_seleciona_endereco.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/activity_usuario_seleciona_pagamento.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_add_tambem.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_cardapio.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_carrinho.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_item_detalhe_pedido.xml" value="0.33489583333333334" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_pedido_empresa.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_pedido_usuario.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/adapter_produto_cardapio.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/add_mais_item.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/bottom_sheet_item_carrinho.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/categoria_item.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/dialog_add_categoria.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/divisor.xml" value="0.15729166666666666" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/empresa_item.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/endereco_item.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/endereco_select.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_empresa_financeiro.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_empresa_pedido.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_empresa_pedido_andamento.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_empresa_pedido_finalizado.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_usuario_home.xml" value="0.22" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_usuario_pedido.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_usuario_pedido_andamento.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_usuario_pedido_finalizado.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/fragment_usuario_perfil.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/item_financeiro.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/layout_status_pedido.xml" value="0.3359375" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/layout_ver_sacola.xml" value="0.33" />
+        <entry key="..\:/ifood 2023/app/src/main/res/layout/pagamentos_select.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3359375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

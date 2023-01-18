@@ -1,0 +1,60 @@
+bibliotecas:
+
+Picasso
+Bundle
+
+
+
+
+ferramentas:
+appbarlayout
+viewpagager
+fragments
+activitys
+recyclerview
+alert dialog
+bottomsheet
+Constraintlayout, framelayout e linearlayout
+
+
+
+banco de dados:
+sqlite
+firebase (autenticação, realtime e firestore)
+
+
+eposting this project so the new followers check it to help them learn a new skills 😁
+
+RoFFu is an online Shoes and Sneakers store with a modern UI & beautiful animations and delightful transition like adding products to cart, bookmarking and changing products size🤩🔥
+
+This project will learn you how to :
+
+🎯 Properly architecting your app with MVVM pattern.
+🎯 Building complex UI using Jetpack compose.
+🎯 Advanced Undirectional Data Flow (UDF).
+🎯 Measuring Composables components and layouts.
+🎯 Managing the complex state on Jetpack compose.
+🎯 Advanced state hoisting to create a stable Composables.
+🎯 Compose Navigation system.
+🎯 Hilt for dependency Injection.
+🎯Macro Benchmark for measuring app performance.
+🎯 Baseline Profiles to optimize performance to fasten up the startup process and also reducing heavy animations junk.
+🎯 Storing complex schema locally using Room.
+🎯 Data Store for storing app preferences like launch state.
+🎯 Animations & Transitions (Updated & Infinite).
+🎯 Getsures (like sweeping and dragging).
+🎯 Accompanist Pager layout.
+🎯 Coil for loading images.
+🎯 Lottie Files for loading animations files.
+🎯 Handling UI states and data fetching properly using Sealed classes and Genric.
+🎯 Timber for logging(I know you are a lazy just like me 😂).
+🎯 WhatIf (which is made by Jaewoong Eum) for handling single if-else statements, nullable, collections, and boolean smoothly and in readable & cleaner way.
+
+The repository link on Github, don't forget to ⭐ it so that you can support me to build more cool stuffs :
+https://lnkd.in/etzQMt3t
+
+Follow me to see more awesome projects and thoughts 🤩
+On Twitter : https://lnkd.in/ecjtmCFM
+On Github : https://lnkd.in/e44TyTNj
+
+
